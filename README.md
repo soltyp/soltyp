@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Python, Oracle APEX, React, C#**
+- 🌱 Currently learning **Python, Oracle APEX, React**
 - 💼 Economic IT Graduate with passion for technology and business automation
 
 
