@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm Karol Pytlos!
+# Hi there, I'm Karol Pytlos!
 
 <div align="center">
 
-### 🎓 Economic IT Graduate | University of Lodz
+### Economic IT Graduate | University of Lodz
 
 ![Profile views](https://komarev.com/ghpvc/?username=soltyp&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -10,15 +10,15 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🌱 Currently learning **Python, Oracle APEX**
-- 💼 Economic IT Graduate with passion for technology and business automation
+- Currently learning **Python, Oracle APEX**
+- Business IT Graduate with passion for technology and business automation
 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -50,15 +50,16 @@
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🤖 Exploring **AI/ML** applications in business
-- 🏗️ Building applications with **Oracle APEX**
+- Developing applications in business
+- Building applications with **Oracle APEX**
+- Learning Python 
 
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
