@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Python, Oracle APEX, React**
+- 🌱 Currently learning **Python, Oracle APEX*
 - 💼 Economic IT Graduate with passion for technology and business automation
 
 
@@ -53,7 +53,6 @@
 ## 🎯 Current Focus
 
 - 🤖 Exploring **AI/ML** applications in business
-- ⚛️ Mastering **React** for modern web development
 - 🏗️ Building applications with **Oracle APEX**
 
 
