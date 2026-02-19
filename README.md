@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Economic IT Graduate | University of Lodz
+### Business IT Graduate | University of Lodz
 
 ![Profile views](https://komarev.com/ghpvc/?username=soltyp&label=Profile%20views&color=0e75b6&style=flat)
 
