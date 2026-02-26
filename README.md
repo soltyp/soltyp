@@ -73,8 +73,3 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
-
-*Feel free to reach out if you want to collaborate on any project or just have a chat about technology!*
-
-</div>
