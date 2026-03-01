@@ -1,8 +1,8 @@
-# Hi there, I'm Karol Pytlos!
+# Hi there, I'm Karol Pytlos! 👋
 
 <div align="center">
 
-### Business IT Graduate | University of Lodz
+### Business IT Graduate | Python & Oracle APEX Developer
 
 ![Profile views](https://komarev.com/ghpvc/?username=soltyp&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -12,9 +12,10 @@
 
 ## About Me
 
-- Currently learning **Python, Oracle APEX**
-- Business IT Graduate with passion for technology and business automation
-
+- **Business IT Graduate** from the University of Lodz.
+- **1 year of commercial experience** focusing on business process automation.
+- Specializing in **Python backend development** and building applications within the **Oracle ecosystem (APEX / SQL)**.
+- Passionate about bridging the gap between technology and business efficiency.
 
 ---
 
@@ -25,8 +26,6 @@
 ### Languages
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
-<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
 
 ### Frameworks & Libraries
@@ -43,7 +42,6 @@
 <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" alt="Power BI" width="45" height="45"/>
 
 ### Tools & Others
-<!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
 
@@ -53,10 +51,9 @@
 
 ## Current Focus
 
-- Developing applications in business
-- Building applications with **Oracle APEX**
-- Learning Python 
-
+- Designing backend solutions.
+- Building and optimizing business applications with **Oracle APEX**.
+- Automating daily business workflows.
 
 ---
 
@@ -68,8 +65,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soltyp)
 
 </div>
-
----
-
-<div align="center">
-
