@@ -6,7 +6,7 @@
 
 </div>
 
---
+
 
 ## About Me
 
@@ -15,7 +15,7 @@
 - Specializing in **Python backend development** and building applications within the **Oracle ecosystem (APEX / SQL)**.
 - Passionate about bridging the gap between technology and business efficiency.
 
----
+
 
 ## Tech Stack
 
@@ -28,7 +28,7 @@
 
 </div>
 
----
+
 
 ## Current Focus
 
@@ -36,7 +36,7 @@
 - Building and optimizing business applications with **Oracle APEX**.
 - Automating daily business workflows.
 
----
+
 
 ## Let's Connect!
 
