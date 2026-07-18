@@ -1,6 +1,6 @@
 <div align="center">
 
-### Business IT Graduate | Python & Oracle APEX Developer
+### Business IT Graduate | Oracle SQL & APEX Developer | Python
 
 ![Profile views](https://komarev.com/ghpvc/?username=soltyp&label=Profile%20views&color=0e75b6&style=flat)
 
