@@ -11,7 +11,7 @@
 ## About Me
 
 - **Business IT Graduate** from the University of Lodz.
-- **2 years of total commercial experience**, with a recent focus on enterprise CRM development and business process automation.
+- **2 years of total commercial experience**, with a recent focus on CRM development and business process automation.
 - Specializing in the **Oracle ecosystem (APEX / SQL)** and **Python backend development**.
 - Passionate about bridging the gap between technology and business efficiency.
 
